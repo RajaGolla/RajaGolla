@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajaGolla
+- 👋 Hi, I’m @Raja Sekhar Golla
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking for a related job
